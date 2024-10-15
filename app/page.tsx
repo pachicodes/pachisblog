@@ -7,7 +7,12 @@ export default function Page() {
       Pachi's Blog
       </h1>
       <p className="mb-4">
-        {`Hi, I am Pachi. A Developer's Relation professional that specializes in communities and is passionate about connecting people, cats and anime. I create this blog to share my ideas, opnions, experiences and learnings around DevRel and Tech Communities `}
+        {`
+        Hi, I'm Pachi, a dedicated DevRel professional specializing in building engaging developer communities. 
+        With a passion for technology and people, I have spent years fostering connections within the tech community. 
+        Join me as I share my insights, experiences, and learnings around developer communities, devrel and more. 
+        
+        `}
       </p>
       <div className="my-8">
         <BlogPosts />
