@@ -7,11 +7,7 @@ export default function Page() {
       Pachi's Blog
       </h1>
       <p className="mb-4">
-        {`I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in
-        Vim's keystroke commands and tabs' flexibility for personal viewing
-        preferences. This extends to my support for static typing, where its
-        early error detection ensures cleaner code, and my preference for dark
-        mode, which eases long coding sessions by reducing eye strain.`}
+        {`Hi, I am Pachi. A Developer's Relation professional that specializes in communities and is passionate about connecting people, cats and anime. I create this blog to share my ideas, opnions, experiences and learnings around DevRel and Tech Communities `}
       </p>
       <div className="my-8">
         <BlogPosts />
